@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,18,thua,NguyenTienThinh,box car 0.76 trên mặt đường/thùng gỗ xe ba gác: không có xe
+img_006.jpg,,khong,NguyenTienThinh,
+img_014.jpg,169,thua,NguyenTienThinh,box three_wheeler 0.33 nằm trên gánh hàng rong: không phải xe ba bánh
+img_014.jpg,170,thua,NguyenTienThinh,box three_wheeler 0.63 nằm trên gánh hàng rong: không phải xe ba bánh
+img_031.jpg,509,sai_vi_tri_kich_thuoc,NguyenTienThinh,box person 0.79 không phủ hết người: box thiếu phần vật
+img_031.jpg,510,sai_vi_tri_kich_thuoc,NguyenTienThinh,box bicycle 0.45 không phủ hết xe đạp: box thiếu phần vật
+img_035.jpg,,bo_sot,NguyenTienThinh,xe máy trên vỉa hè chưa có box
+img_035.jpg,,bo_sot,NguyenTienThinh,cụm xe máy phía xa chưa có box hoặc ignore_region
